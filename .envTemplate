@@ -1,0 +1,6 @@
+# Copy this file to .env to do local development. 
+INFERENCEHUB_API=https://api.inferencehub.io
+SIGNIN_REDIRECT=http://localhost
+SIGNOUT_REDIRECT=http://localhost
+COOKIE_DOMAIN=localhost
+COGINTO_USER_POOL_CLIENT=5blr3ravvvi8cvf39ibt8mvpdt 
